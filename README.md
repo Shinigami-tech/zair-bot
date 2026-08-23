@@ -1,3 +1,4 @@
+<img width="723" height="216" alt="Screenshot 2026-08-23 at 16 25 59" src="https://github.com/user-attachments/assets/1fdc7126-ae52-49b4-9e10-6362677cd5aa" />
 # Zair Bot
 
 A Slack bot built with Slack Bolt (Node.js) that responds to custom slash commands. Runs 24/7 on Hack Club's Nest hosting via a systemd service, so it stays online even when my laptop is closed.
