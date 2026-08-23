@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Zair Bot
 
 A Slack bot built with Slack Bolt (Node.js) that responds to custom slash commands. Runs 24/7 on Hack Club's Nest hosting via a systemd service, so it stays online even when my laptop is closed.
@@ -33,5 +32,3 @@ Deployed on Hack Club Nest and kept alive 24/7 with a systemd service:
 ## AI usage declaration
 
 Built with assistance from Claude (Anthropic) for scaffolding the Slack Bolt app, debugging deployment issues, and setting up the systemd service on Nest. I created the Slack app, wrote and tested all the slash commands myself, and handled the deployment.
-EOF
-git add README.md && git commit -m "add README" && git push
